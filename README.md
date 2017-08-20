@@ -7,8 +7,9 @@
 ##### Project arduino sketch is available in this repository.
 
 #### Build and setup time: 1 hour.
-For build tutorial and cloud setup and a working video visit
-I've used the Arduino W1500 ethernet shield due to University Wifi-Restrictions, but A wifi sheild such as ESP8266 is recommended.
+1. For build tutorial and cloud setup and a working video visit
+2. I've used the Arduino W1500 ethernet shield due to University Wifi-Restrictions, but A wifi sheild such as ESP8266 is     recommended.
+3. Circuit design is available in this repo.
 
 ### Components:
 1. Arduino UNO microcontroller.
@@ -21,10 +22,6 @@ I've used the Arduino W1500 ethernet shield due to University Wifi-Restrictions,
 8. Medium sized breadboard.
 9. 2200 mAh lithium ion battery.
 10. Sparkfun metal chasis.
-
-### Circuit Diagram (powered by thr Fritzing Application): 
-
-![Screenshot](circuitdesign.png)
 
 Arduino Project Hub: https://create.arduino.cc/projecthub
 
