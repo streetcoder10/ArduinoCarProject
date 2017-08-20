@@ -25,7 +25,7 @@ For build tutorial and cloud setup and a working video visit
  
 
 
-[Arduino Project Hub]: https://create.arduino.cc/projecthub
-[Fritzing circuit design app]:http://fritzing.org
+Arduino Project Hub: https://create.arduino.cc/projecthub
+Fritzing circuit design app:http://fritzing.org
 Enjoy!
 
