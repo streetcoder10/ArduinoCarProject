@@ -24,8 +24,7 @@ I've used the Arduino W1500 ethernet shield due to University Wifi-Restrictions,
 
 ### Circuit Diagram (powered by thr Fritzing Application): 
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](ArduinoCarProject/circuit.png)
 
 Arduino Project Hub: https://create.arduino.cc/projecthub
 
