@@ -4,6 +4,8 @@
 
 ### Arduino IDE to inject code into the Arduino UNO chip. IBM bluemix quickstart recipe to publish sensor data onto the Bluemix cloud.
 
+##### Project arduino sketch is available in this repository.
+
 #### Build and setup time: 1 hour.
 For build tutorial and cloud setup and a working video visit
 I've used the Arduino W1500 ethernet shield due to University Wifi-Restrictions, but A wifi sheild such as ESP8266 is recommended.
